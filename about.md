@@ -11,11 +11,7 @@ here will be some content.
 
 alter and added some info in order to make a new push to Github
 
+## Creating problems just to solve a merge conflict
 
-## making more edits in the feature-branch 
+we should create a conflict here
 
-here adding more stuff to test out the new branch i created according to taks 9
-
-### Creating merge conflict
-
-here is the merge conflict, look at me, i am a conflict!
